@@ -21,7 +21,7 @@
           "Season with black pepper and serve immediately."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Chicken Alfredo",
@@ -45,7 +45,7 @@
           "Garnish with chopped parsley and serve."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Beef Stew",
@@ -70,7 +70,7 @@
           "Serve hot."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Grilled Salmon",
@@ -90,7 +90,7 @@
           "Garnish with lemon slices and fresh dill. Serve immediately."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "BBQ Ribs",
@@ -113,7 +113,7 @@
           "Serve hot."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Shrimp Scampi",
@@ -138,7 +138,7 @@
           "Serve immediately."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Beef Tacos",
@@ -160,7 +160,7 @@
           "Serve immediately."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Roast Chicken",
@@ -182,7 +182,7 @@
           "Garnish with fresh rosemary and serve."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Lamb Curry",
@@ -207,7 +207,7 @@
           "Garnish with chopped cilantro and serve."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       },
       {
         "name": "Turkey Sandwich",
@@ -226,6 +226,6 @@
           "Serve immediately."
         ],
         "image": "hello",
-        "non-veg": true
+        "non_veg": true
       }
 ]
