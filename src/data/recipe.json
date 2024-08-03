@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Vegetable Stir Fry",
+        "instructions": "Heat oil in a pan. Add chopped vegetables and stir-fry for 5-7 minutes. Add soy sauce and stir for another 2 minutes. Serve hot.",
+        "ingredients": ["carrots", "bell peppers", "broccoli", "soy sauce", "olive oil"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Pasta Primavera",
+        "instructions": "Cook pasta according to package instructions. In a pan, sauté garlic and vegetables. Mix in pasta and marinara sauce. Serve with parmesan.",
+        "ingredients": ["pasta", "garlic", "bell peppers", "zucchini", "marinara sauce", "parmesan"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Vegetable Curry",
+        "instructions": "Heat oil in a pot. Add onions, garlic, and ginger. Add spices and vegetables. Cook until vegetables are tender. Serve with rice.",
+        "ingredients": ["onions", "garlic", "ginger", "spices", "potatoes", "carrots", "peas", "rice"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Veggie Burger",
+        "instructions": "Mash beans and mix with breadcrumbs, spices, and chopped vegetables. Form patties and cook in a pan until golden. Serve in buns with toppings.",
+        "ingredients": ["black beans", "breadcrumbs", "spices", "bell peppers", "onions", "burger buns"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Stuffed Bell Peppers",
+        "instructions": "Cut tops off bell peppers and remove seeds. Stuff with rice, beans, and spices. Bake in the oven for 30 minutes at 375°F.",
+        "ingredients": ["bell peppers", "rice", "black beans", "spices", "cheese"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Vegetarian Tacos",
+        "instructions": "Cook black beans with spices. Warm tortillas and fill with beans, lettuce, tomatoes, and cheese. Serve with salsa and sour cream.",
+        "ingredients": ["black beans", "spices", "tortillas", "lettuce", "tomatoes", "cheese", "salsa", "sour cream"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Grilled Vegetable Skewers",
+        "instructions": "Thread chopped vegetables onto skewers. Brush with olive oil and sprinkle with salt and pepper. Grill until vegetables are tender and slightly charred.",
+        "ingredients": ["bell peppers", "zucchini", "cherry tomatoes", "mushrooms", "olive oil", "salt", "pepper"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Vegetarian Chili",
+        "instructions": "Sauté onions and garlic in a pot. Add beans, tomatoes, and spices. Simmer for 30 minutes. Serve with sour cream and cheese.",
+        "ingredients": ["onions", "garlic", "black beans", "kidney beans", "tomatoes", "spices", "sour cream", "cheese"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Quinoa Salad",
+        "instructions": "Cook quinoa according to package instructions. Mix with chopped vegetables, olive oil, lemon juice, salt, and pepper. Serve chilled.",
+        "ingredients": ["quinoa", "cucumbers", "cherry tomatoes", "bell peppers", "olive oil", "lemon juice", "salt", "pepper"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Vegetable Soup",
+        "instructions": "Heat oil in a pot. Add onions, garlic, and vegetables. Add broth and simmer until vegetables are tender. Serve hot.",
+        "ingredients": ["onions", "garlic", "carrots", "celery", "potatoes", "vegetable broth"],
+        "nonveg": false,
+        "image": null
+    },
+    {
+        "name": "Chicken Stir Fry",
+        "instructions": "Heat oil in a pan. Add sliced chicken and cook until browned. Add vegetables and stir-fry for 5-7 minutes. Add soy sauce and stir for another 2 minutes. Serve hot.",
+        "ingredients": ["chicken breast", "carrots", "bell peppers", "broccoli", "soy sauce", "olive oil"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Spaghetti Bolognese",
+        "instructions": "Cook spaghetti according to package instructions. In a pan, cook ground beef until browned. Add onions, garlic, and marinara sauce. Simmer for 20 minutes. Serve with spaghetti and parmesan.",
+        "ingredients": ["spaghetti", "ground beef", "onions", "garlic", "marinara sauce", "parmesan"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Chicken Curry",
+        "instructions": "Heat oil in a pot. Add onions, garlic, and ginger. Add chicken and cook until browned. Add spices and coconut milk. Simmer until chicken is cooked through. Serve with rice.",
+        "ingredients": ["chicken", "onions", "garlic", "ginger", "spices", "coconut milk", "rice"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Beef Tacos",
+        "instructions": "Cook ground beef with spices. Warm tortillas and fill with beef, lettuce, tomatoes, and cheese. Serve with salsa and sour cream.",
+        "ingredients": ["ground beef", "spices", "tortillas", "lettuce", "tomatoes", "cheese", "salsa", "sour cream"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Grilled Chicken Skewers",
+        "instructions": "Thread chicken pieces and vegetables onto skewers. Brush with olive oil and sprinkle with salt and pepper. Grill until chicken is cooked through.",
+        "ingredients": ["chicken breast", "bell peppers", "zucchini", "olive oil", "salt", "pepper"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Shrimp Fried Rice",
+        "instructions": "Heat oil in a pan. Add shrimp and cook until pink. Add cooked rice, peas, carrots, and soy sauce. Stir-fry for 5 minutes. Serve hot.",
+        "ingredients": ["shrimp", "cooked rice", "peas", "carrots", "soy sauce", "olive oil"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Chicken Alfredo",
+        "instructions": "Cook fettuccine according to package instructions. In a pan, cook chicken until browned. Add cream, garlic, and parmesan. Simmer until sauce thickens. Toss with fettuccine and serve.",
+        "ingredients": ["fettuccine", "chicken breast", "cream", "garlic", "parmesan"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Fish Tacos",
+        "instructions": "Season fish with spices and cook in a pan until flaky. Warm tortillas and fill with fish, cabbage, and lime crema. Serve with salsa.",
+        "ingredients": ["fish fillets", "spices", "tortillas", "cabbage", "lime crema", "salsa"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Beef Chili",
+        "instructions": "Sauté onions and garlic in a pot. Add ground beef and cook until browned. Add beans, tomatoes, and spices. Simmer for 30 minutes. Serve with sour cream and cheese.",
+        "ingredients": ["onions", "garlic", "ground beef", "black beans", "kidney beans", "tomatoes", "spices", "sour cream", "cheese"],
+        "nonveg": true,
+        "image": null
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "instructions": "Grill chicken breast and slice. Toss lettuce with Caesar dressing, croutons, and parmesan. Top with grilled chicken and serve.",
+        "ingredients": ["chicken breast", "lettuce", "Caesar dressing", "croutons", "parmesan"],
+        "nonveg": true,
+        "image": null
+    }
+]

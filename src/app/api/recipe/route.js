@@ -1,7 +1,9 @@
 import { NextResponse } from 'next/server'
-import data from './RecipeData.json'
+import data from './recipe.json'
 import { Connect } from '../lib/db'
-import Recipe from '../lib/schema'
+import Recipe from '../schema/schemaRecipe'
+
+//get reequsete handal function
 
 export async function GET(req,res){
     try{Connect()
@@ -19,6 +21,9 @@ export async function GET(req,res){
                 data:recipe,
             },{status:200})
         }
+
+        // const posting=await data.map((e)=>{Recipe.create(e)}) to post all the data in mongodb
+
     }catch(err){
         console.log(err)
         return NextResponse.json({
@@ -26,6 +31,9 @@ export async function GET(req,res){
         },{status:404})
     }
 }
+
+// post requsest handeler function
+
 export async function POST(req,res){
     try{Connect()
         const data=await req.json()
@@ -41,6 +49,8 @@ export async function POST(req,res){
         },{status:404})
     }
 }
+
+// delete requsest handeler function
 
 export async function DELETE(req,res){
     try{Connect()
@@ -64,6 +74,8 @@ export async function DELETE(req,res){
             },{status:404})
     }
 }
+
+// patch requsest handeler function
 
 export async function PATCH(req,res){
     try{Connect()
